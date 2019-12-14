@@ -7,7 +7,7 @@ public class RandomListInMap {
         Map<Integer, Integer> map=new HashMap<>();
         for (Integer i:numbers
              ) {
-            if(map.keySet().contains(i)){
+            if(map.containsKey(i)){
                 map.put(i,map.get(i)+1);
             }
             else {
