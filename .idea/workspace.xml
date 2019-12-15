@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5d1a327-07bb-41b8-ae1a-16fbdf476107" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RandomSetInMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompareHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lection12Homework/RandomList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomListInMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RandomListInMap.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomSetInMap">
+  <component name="RunManager" selected="Application.CompareHashMap">
+    <configuration name="CompareHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareHashMap" />
+      <module name="Lection12Homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RandomList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RandomList" />
       <module name="Lection12Homework" />
@@ -57,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompareHashMap" />
         <item itemvalue="Application.RandomSetInMap" />
         <item itemvalue="Application.RandomList" />
       </list>
